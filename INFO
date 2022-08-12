@@ -4,4 +4,11 @@ Project Name: Rubiks Cube simulator
   Date published: 12-Aug-22
   Time published: 1:22 pm Eastern time
   Status: Unfinished, needs to add B,B',U',D,D'
- 
+  Modules: Pytextgame
+    Function Used: colortext()
+  Module Name: Pytextgame
+    Creator: Aarav
+    Date published: Unknown
+    Time published: Unknown
+    Status: Finished
+    Modules: os,time
