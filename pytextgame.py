@@ -32,7 +32,6 @@ def maketext(color,string,tim=0.25):
         time.sleep(tim)
 def colortext(color,string):
     string = str(string)
-    pri
     return color+string+END
 def enter(string,color):
     string = str(string)
